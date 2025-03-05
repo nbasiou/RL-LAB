@@ -1,4 +1,9 @@
+# Mark everything as vendored by default (excluded from language stats)
 * linguist-vendored
+
+# Include Python files in language statistics
 *.py linguist-vendored=False
+
+# Exclude Jupyter Notebooks from language statistics
 *.ipynb linguist-vendored
 
