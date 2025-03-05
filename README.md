@@ -1,5 +1,5 @@
 # RL-DPO
-Align LLM with human preferences using Reinforcement Learning (RL)
+**Align LLM with human preferences using Reinforcement Learning (RL)**
 
 This repository implements the alignment of a fine-tuned LLM using RL Direct Preference Optimization in Google Colab. 
 The code supports the following:
